@@ -1,2 +1,2 @@
 # posix
-contain C, POSIX thread, Semaphore and system programming
+practice place C, recursion, POSIX thread, Semaphore and system programming
